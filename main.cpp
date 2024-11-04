@@ -70,3 +70,5 @@ int main() {
     cout << prf << endl;
     return 0;
 }
+// 5
+// 21 34 45 20 19
